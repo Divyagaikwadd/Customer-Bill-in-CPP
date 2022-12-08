@@ -10,7 +10,7 @@ int main()
     //variables for items quantity (q for quantity)
      int qB=0,qP=0,qCD=0,qFC=0,qFF=0;
      //variables for items price (p for prize) item prize is fix
-     int pB=400,pP=1200,pCD=110,pFC=300,pFF=200;
+     int pB=90,pP=180,pCD=80,pFC=300,pFF=130;
      cout<<"\n\n\n\n\t\t\t\tWelcome to Crezy Food Corner!";                 //here we are displaing the menu of items and the prize to customer
      cout<<"\n\t\t\t\t---------------Menu----------------";
      cout<<"\n\t\t\t\tBurger-----------------------RS 90";
